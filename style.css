@@ -156,7 +156,7 @@ select {
   position: absolute;
   top: 40px;
   right: 0;
-  transition: all 3s;
+  transition: all .3s;
   transform: translateX(280px);
   display: none;
 }

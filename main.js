@@ -44,7 +44,7 @@ function addTodo(e) {
     error.style.display = "block"
     setTimeout(() => {
       error.style.transform = "translateX(280px)"
-      // error.style.display = "none"
+      error.style.display = "none"
     }, 2500);
   }
 }
